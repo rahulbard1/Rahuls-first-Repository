@@ -3,3 +3,4 @@ For usage with Azure Devops Pipeline for BitBucket as wel
 CI/CD integration extended to BitBucket
 Lets do it
 Then extned to AWS and GOogle Cloud
+Without CVS .. mad chagnes there
