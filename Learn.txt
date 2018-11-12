@@ -1,5 +1,5 @@
-Learning to use GIthub
-For usage with Azure Devops Pipeline
-CI/CD integration
+Learning to use GIthub and BitBucket
+For usage with Azure Devops Pipeline for BitBucket as wel
+CI/CD integration extended to BitBucket
 Lets do it
-Then extned to AWS
+Then extned to AWS and GOogle Cloud
